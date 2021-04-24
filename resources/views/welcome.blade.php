@@ -6,7 +6,7 @@
     <title>
         dichuyenthongminh </title>
     <link href="//www.google-analytics.com" rel="dns-prefetch">
-    <link href="https://www.grab.com/vn/wp-content/themes/grabsg/public/images/favicon.ico" rel="shortcut icon">
+   
     <meta name="msvalidate.01" content="62D708192352CDCE3B73BA9B4A94A95C"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
